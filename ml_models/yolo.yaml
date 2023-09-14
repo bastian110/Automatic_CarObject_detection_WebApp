@@ -1,6 +1,6 @@
 names:
   0: car
 nc: 1
-path: ''
-train: images/train
-val: images/val
+path: CarObject_detection/ml_models/datasets/images
+train: train
+val: val
