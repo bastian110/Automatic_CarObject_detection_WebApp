@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "name": "Picture"
+    },
+    {
+      "id": 2,
+      "name": "Video"
+    },
+    {
+      "id": 3,
+      "name": "Realtime"
+    }
+  ]
